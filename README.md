@@ -36,7 +36,7 @@ Once the program is running you can pull up your console window within you IDE t
 ### Here are screenshots of how the tables within the database have been set up for a better understanding of how the database works:
 
 ###### Customers Table
-![customer-table](/README%20Screenshots/customers%20table.PNG)
+![customers-table](/README%20Screenshots/customers%20table.PNG)
 
 ###### Restaurants Table
 ![restaurants-table](/README%20Screenshots/restaurants%20table.PNG)
