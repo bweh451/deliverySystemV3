@@ -36,7 +36,7 @@ Once the program is running you can pull up your console window within you IDE t
 ### Here are screenshots of how the tables within the database have been set up for a better understanding of how the database works:
 
 ###### Customers Table
-![customers-table](/README%20Screenshots/customers%20table.PNG)
+![customers-table](/README%20Screenshots/customer%20table.PNG)
 
 ###### Restaurants Table
 ![restaurants-table](/README%20Screenshots/restaurants%20table.PNG)
@@ -48,9 +48,9 @@ Once the program is running you can pull up your console window within you IDE t
 ![orderItems-table](/README%20Screenshots/orderItems%20table.PNG)
 
 ##### Drivers Table
-![drivers-table-description](/README%20Screenshots/drivers%20table%20description.PNG)
+![drivers-table-description](/README%20Screenshots/driver%20table%20description.PNG)
 ![drivers-table-values](/README%20Screenshots/drivers%20table%20values.PNG)
-![drivers-table](/README%20Screenshots/drivers%20table.PNG)
+![drivers-table](/README%20Screenshots/driver%20table.PNG)
 
 ## Get help
 If you are having troubles setting up the program then feel free to DM me on discord so that we can chat about it (bweh#8859).
